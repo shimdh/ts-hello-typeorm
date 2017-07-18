@@ -17,6 +17,9 @@
             false,
             "log",
             "error"
+        ],
+        "object-literal-sort-keys": [
+            false
         ]
     },
     "rulesDirectory": []

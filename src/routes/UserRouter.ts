@@ -183,6 +183,6 @@ export class UserRouter {
 }
 
 const userRoutes = new UserRouter();
-userRoutes.init();
+// userRoutes.init();
 
 export default userRoutes.router;

@@ -15,7 +15,10 @@
     "debug": "^2.6.8",
     "express": "^4.15.3",
     "morgan": "^1.8.2",
-    "ts-node": "^3.2.0"
+    "reflect-metadata": "^0.1.10",
+    "sqlite3": "^3.1.8",
+    "ts-node": "^3.2.0",
+    "typeorm": "^0.1.0-alpha.32"
   },
   "devDependencies": {
     "@types/body-parser": "^1.16.4",
